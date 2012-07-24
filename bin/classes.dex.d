@@ -1,0 +1,26 @@
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes.dex : \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$drawable.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$id.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$layout.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$menu.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/BuildConfig.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/OFActivity.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$attr.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/test_tastiera/R$string.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R$drawable.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R$id.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R$layout.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/BuildConfig.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R$attr.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/androidAudioExample/R$string.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$drawable.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$id.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$layout.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$menu.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$attr.class \
+/mnt/android/OF/openFrameworks/examples/android/test_tastiera/bin/classes/cc/openframeworks/cc/R$string.class \
+/mnt/android/OF/openFrameworks/addons/ofxAndroid/ofAndroidLib/bin/classes.jar \
+/mnt/android/android-sdk-linux_86/tools/support/annotations.jar \

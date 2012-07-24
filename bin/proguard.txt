@@ -1,0 +1,6 @@
+# view res/layout/main_layout.xml #generated:3
+-keep class cc.openframeworks.OFGLSurfaceView { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class cc.openframeworks.test_tastiera.OFActivity { <init>(...); }
+
